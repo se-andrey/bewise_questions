@@ -10,7 +10,7 @@
 
     cd cat app
 
-    git clone https://github.com/se-andrey/questions.git
+    git clone https://github.com/se-andrey/bewise_questions.git
 
 
 ### запуск
