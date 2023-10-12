@@ -1,0 +1,7 @@
+.idea
+venv
+**/__pycache__
+.flake8
+.isort
+.env
+questions.log
